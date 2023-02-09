@@ -7,10 +7,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 ## Installation
 --------------------------------------------------------------------------------------------------------------------------------------
-Öncelikle projeyi clonelayın. (https://github.com/Mellowsky/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın. (https://github.com/Mellowsky/kodluyoruzilkrepo)
 
 ```
-git clone (https://github.com/Mellowsky/kodluyoruzilkrepo.git)
+git clone (https://github.com/Mellowsky/kodluyoruzilkrepo)
 ```
 ## Usage
  
